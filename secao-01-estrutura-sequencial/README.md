@@ -4,7 +4,7 @@
 
 | Aula | Conteúdo | Status |
 | --- | --- | --- |
-| 01 | Expressões aritméticas | ⬜ |
+| 01 | Expressões aritméticas | ✅ |
 | 02 | Variáveis e tipos básicos em Java | ⬜ |
 | 03 | As três operações básicas de programação | ⬜ |
 | 04 | Saída de dados em Java | ⬜ |
