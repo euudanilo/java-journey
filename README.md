@@ -87,7 +87,7 @@ Cada seção possui seu próprio **README.md**, onde documento:
 
 | Seção | Status |
 |--------|:------:|
-| 01 - Estrutura Sequencial | ⬜ |
+| 01 - Estrutura Sequencial | ⏳ |
 | 02 - Estrutura Condicional | ⬜ |
 | 03 - Estruturas Repetitivas | ⬜ |
 | 04 - Outros Tópicos Básicos sobre Java | ⬜ |
