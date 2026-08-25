@@ -143,6 +143,6 @@ Ao final desta jornada, espero não apenas concluir o curso, mas também constru
 # 📊 Estatísticas
 
 - 📚 Seções concluídas: **0/24**
-- 📖 Aulas concluídas: **1**
+- 📖 Aulas concluídas: **2**
 - 💻 Exercícios resolvidos: **0**
 - 🚀 Projetos concluídos: **0**
