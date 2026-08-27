@@ -7,7 +7,7 @@
 | 01 | Expressões aritméticas | ✅ |
 | 02 | Variáveis e tipos básicos em Java | ✅ |
 | 03 | As três operações básicas de programação | ✅ |
-| 04 | Saída de dados em Java | ⬜ |
+| 04 | Saída de dados em Java | ✅ |
 | 05 | Processamento de dados em Java, Casting | ⬜ |
 | 06 | Entrada de dados em Java - Parte 1 | ⬜ |
 | 07 | Entrada de dados em Java - Parte 2 | ⬜ |
